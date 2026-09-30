@@ -1,0 +1,7 @@
+{
+  "name": "NetBird VPN Status",
+  "description": "Shows NetBird VPN connection status, peer count, IP address, and session expiry in the Quick Settings panel.",
+  "uuid": "netbird@jlapthor",
+  "shell-version": ["50"],
+  "version": 1
+}
